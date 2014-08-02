@@ -18,3 +18,6 @@ var_dump(my_strpos($alphabet, 'u', 22));
 
 # Should print "bool(false)"
 var_dump(my_strpos($alphabet, 'A'));
+
+# Should print "bool(false)"
+var_dump(my_strpos($alphabet, 'ghk'));
