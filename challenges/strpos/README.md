@@ -4,7 +4,7 @@ This challenge will test your ability to write a PHP function to solve for a giv
 ### Criteria
 * Work in the `strpos.php` file.
 * Reimplement the `strpos()` function from PHP as `my_strpos()`.
-* Refer to the [documentation](http://www.php.net/manual/en/function.strpos.php) for `strpos()`.
+* Refer to the [documentation](http://www.php.net/manual/en/function.strpos.php) for `strpos()`. __Do not use php's function.__
 * The closer you follow the documentation, the more points you get.
 
 ### Bonus Points
