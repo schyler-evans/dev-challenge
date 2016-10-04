@@ -1,6 +1,6 @@
-IIn this language:
-% represent something like strings.
-$ represent arrays, something like string[] in this case.
+In this language:
+% represent strings.
+$ represent arrays, a string[] in this case.
 @ represents a more complex collection, something like a Dictionary<string, int> in this case.
 
 The program main.wat counts the number of times unique alpha numeric strings appear in the input.txt file, and then prints the result.
